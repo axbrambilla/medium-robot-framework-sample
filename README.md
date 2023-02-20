@@ -6,7 +6,7 @@ You can find full details here: https://medium.com/@axbrambilla/setting-up-a-rob
  
  ## How to Run the Tests 
 
-Run the followin command within your virtualenvironment and root foolder
+Run the followin command within your virtual environment and root foolder
 ```
 robot -d reports/ tests/
 ```
